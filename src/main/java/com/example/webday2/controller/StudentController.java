@@ -1,4 +1,4 @@
-package com.example.webday5restmethods.controller;
+package com.example.webday2.controller;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -12,9 +12,9 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.example.webday5restmethods.model.Student;
-import com.example.webday5restmethods.rest.model.CreateStudentRequest;
-import com.example.webday5restmethods.rest.model.UpdateStudentRequest;
+import com.example.webday2.model.Student;
+import com.example.webday2.rest.model.CreateStudentRequest;
+import com.example.webday2.rest.model.UpdateStudentRequest;
 
 @RestController
 @RequestMapping("/students")

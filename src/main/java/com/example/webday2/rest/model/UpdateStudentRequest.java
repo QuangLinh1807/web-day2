@@ -1,4 +1,4 @@
-package com.example.webday5restmethods.rest.model;
+package com.example.webday2.rest.model;
 
 public class UpdateStudentRequest {
 

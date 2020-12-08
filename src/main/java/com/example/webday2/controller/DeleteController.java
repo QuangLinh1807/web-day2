@@ -1,4 +1,4 @@
-package com.example.webday5restmethods.controller;
+package com.example.webday2.controller;
 
 import java.util.List;
 

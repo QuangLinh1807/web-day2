@@ -1,13 +1,13 @@
-package com.example.webday5restmethods;
+package com.example.webday2;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class WebDay5RestMethodsApplication {
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(WebDay5RestMethodsApplication.class, args);
+		SpringApplication.run(Application.class, args);
 	}
 
 }
